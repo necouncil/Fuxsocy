@@ -1,5 +1,5 @@
-# FuxSocy Rat 🎩
-**FuxSocy Rat is a Telegram-Based Remote Administration Tool *RAT***
+# FuxSocy 🎩
+**FuxSocy is a Telegram-Based Remote Administration Tool**
 - **version 1.0**
 - **tt: https://www.tiktok.com/@societycontroled**
 
